@@ -154,3 +154,12 @@
 .footer a {
   color: white;
 }
+
+
+.featured-item-img {
+  transition: transform .3s ease-in-out;
+}
+
+.featured-item-img:hover {
+  transform: scale(1.1)
+}
